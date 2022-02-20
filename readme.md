@@ -1,0 +1,1 @@
+Este repositório tem como objeto documentar a minha evolução durante os estudos. 
